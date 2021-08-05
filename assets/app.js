@@ -11,13 +11,9 @@ import './styles/app.scss';
 // you can specify whith plugins you need
 import { Tooltip, Toast, Popover } from 'bootstrap';
 
-import './js/app'
-import './js/feather-icons'
-import './js/main'
-import './js/feather-icons/feather'
-import './js/pages/dashboard'
-import './vendors/chartjs/Chart'
-import './vendors/apexcharts/apexcharts'
+import 'bootstrap/dist/js/bootstrap'
+import 'feather-icons/dist/feather'
+import 'perfect-scrollbar/dist/perfect-scrollbar'
 
 
 // start the Stimulus application
